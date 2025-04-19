@@ -65,7 +65,7 @@ Content-Type: application/json
 # Request Body:
 {
   "document_id": "string (required)",
-  "query": "string (required)",
+  "query": "what is capital of france",
   "conversation_id": "string (optional)",
   "require_citations": "boolean (default: true)"
 }
